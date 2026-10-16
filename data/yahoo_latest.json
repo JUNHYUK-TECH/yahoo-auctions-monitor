@@ -1,23 +1,13 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-16T20:08:08.154745+00:00",
-  "new": [
-    {
-      "id": "c1246810388",
-      "keyword": "Gibson",
-      "title": "Gibson・ギブソン・Les Paul Classic・クラシック・1998年製・Gold top・ゴールドトップ・純正ハードケース付・貫禄の一本！ 現在 248,000円 21時31分に終了",
-      "price": 248000,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/c1246810388"
-    }
-  ],
+  "checked_at": "2026-10-16T21:14:02.701522+00:00",
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 296,
-      "parsed": 296,
+      "links": 295,
+      "parsed": 295,
       "qualifying": 7,
       "page_stats": [
         {
@@ -47,8 +37,8 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 48
+          "links": 66,
+          "unique_added": 47
         },
         {
           "page": 6,
@@ -62,7 +52,7 @@
       "pages": 5,
       "links": 256,
       "parsed": 256,
-      "qualifying": 54,
+      "qualifying": 53,
       "page_stats": [
         {
           "page": 1,
