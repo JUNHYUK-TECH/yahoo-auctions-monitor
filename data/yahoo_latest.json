@@ -1,17 +1,7 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-16T16:16:25.812100+00:00",
-  "new": [
-    {
-      "id": "l1248633708",
-      "keyword": "Gibson",
-      "title": "ハードケース付 GIBSON ギブソン ES-135 セミアコ エレキギター 現在 242,000円 ＋送料4,780円 0 1日",
-      "price": 242000,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/l1248633708"
-    }
-  ],
+  "checked_at": "2026-10-16T17:15:30.991395+00:00",
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -112,15 +102,15 @@
     },
     "Fender": {
       "pages": 1,
-      "links": 49,
-      "parsed": 49,
+      "links": 47,
+      "parsed": 47,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 49
+          "links": 47,
+          "unique_added": 47
         }
       ]
     },
@@ -168,15 +158,15 @@
     },
     "Fractal": {
       "pages": 1,
-      "links": 36,
-      "parsed": 36,
+      "links": 37,
+      "parsed": 37,
       "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fractal&b=1&n=50&s1=new&o1=d",
-          "links": 36,
-          "unique_added": 36
+          "links": 37,
+          "unique_added": 37
         }
       ]
     }
