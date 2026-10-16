@@ -1,7 +1,17 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-16T21:14:02.701522+00:00",
-  "new": [],
+  "checked_at": "2026-10-16T22:13:02.335329+00:00",
+  "new": [
+    {
+      "id": "b1248588637",
+      "keyword": "Gibson",
+      "title": "【 C 】K1197 Gibson ES-335 #90699311 セミアコギター ギブソン 3329793 現在 100,100円 ＋送料4,480円 22 6日",
+      "price": 100100,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/b1248588637"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -19,14 +29,14 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 40
+          "links": 60,
+          "unique_added": 41
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=101&n=50&s1=new&o1=d",
-          "links": 66,
-          "unique_added": 47
+          "links": 65,
+          "unique_added": 46
         },
         {
           "page": 4,
@@ -37,14 +47,14 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 66,
-          "unique_added": 47
+          "links": 67,
+          "unique_added": 48
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 43
+          "links": 61,
+          "unique_added": 42
         }
       ]
     },
@@ -52,19 +62,19 @@
       "pages": 5,
       "links": 256,
       "parsed": 256,
-      "qualifying": 53,
+      "qualifying": 55,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 68
+          "links": 69,
+          "unique_added": 69
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 47
+          "links": 68,
+          "unique_added": 46
         },
         {
           "page": 3,
@@ -101,46 +111,16 @@
       ]
     },
     "Fender": {
-      "pages": 6,
-      "links": 300,
-      "parsed": 300,
+      "pages": 1,
+      "links": 49,
+      "parsed": 49,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 2,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
+          "links": 49,
+          "unique_added": 49
         }
       ]
     },
@@ -201,7 +181,7 @@
       ]
     }
   },
-  "seen_count": 145,
+  "seen_count": 146,
   "initialized_keywords": [
     "Fender",
     "Fractal",
