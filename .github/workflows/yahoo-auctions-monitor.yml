@@ -6,7 +6,7 @@ on:
       - 'yahoo_monitor.py'
       - '.github/workflows/yahoo-auctions-monitor.yml'
   schedule:
-    - cron: '47 * * * *'
+    - cron: '53 * * * *'
   workflow_dispatch:
 
 concurrency:
