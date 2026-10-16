@@ -1,0 +1,77 @@
+name: Yahoo Auctions Monitor
+
+on:
+  push:
+    paths:
+      - 'yahoo_monitor.py'
+      - '.github/workflows/yahoo-auctions-monitor.yml'
+  schedule:
+    - cron: '47 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: yahoo-auctions-monitor
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Python requirements
+        run: pip install -r requirements.txt
+      - name: Check search filters
+        run: python -m unittest discover -s tests -v
+      - name: Install Playwright browser
+        run: python -m playwright install --with-deps chromium
+      - name: Search Yahoo Auctions
+        id: scan
+        run: python yahoo_monitor.py
+      - name: Create issues named after newly found items
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          python - <<'PY'
+          import json, subprocess
+          d = json.load(open("data/yahoo_latest.json", encoding="utf-8"))
+          for x in d.get("new", []):
+              title = f'[{x["keyword"]}] {x["title"]}'
+              if len(title) > 225:
+                  title = title[:224] + '…'
+              buyout = f'¥{x["buyout"]:,}' if x.get("buyout") else "미표시"
+              end = x.get("end") or "미표시"
+              body = (f'**상품명:** {x["title"]}\n\n'
+                      f'- 현재가: ¥{x["price"]:,}\n'
+                      f'- 즉결가: {buyout}\n'
+                      f'- 종료시간: {end}\n'
+                      f'- 야후옥션 링크: {x["url"]}\n'
+                      f'- 옥션 ID: {x["id"]}\n\n'
+                      '최초 발견 기준의 알림이며, 실제 출품시각을 보장하지 않습니다.')
+              subprocess.run(['gh','issue','create','--title',title,'--body',body], check=True)
+          print(f"Created {len(d.get('new', []))} item Issues.")
+          PY
+      - name: Save seen IDs on main
+        if: ${{ !cancelled() && steps.scan.outcome == 'success' }}
+        run: |
+          git config user.name 'yahoo-auctions-monitor'
+          git config user.email 'actions@users.noreply.github.com'
+          git add data/yahoo_seen.json data/yahoo_latest.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update Yahoo Auctions state [skip ci]'
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          else
+            echo 'State unchanged.'
+          fi
