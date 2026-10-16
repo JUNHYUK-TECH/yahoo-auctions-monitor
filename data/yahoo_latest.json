@@ -1,20 +1,20 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-16T17:15:30.991395+00:00",
+  "checked_at": "2026-10-16T18:12:20.636811+00:00",
   "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 293,
-      "parsed": 293,
+      "links": 294,
+      "parsed": 294,
       "qualifying": 7,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=1&n=50&s1=new&o1=d",
-          "links": 66,
-          "unique_added": 66
+          "links": 67,
+          "unique_added": 67
         },
         {
           "page": 2,
@@ -25,8 +25,8 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=101&n=50&s1=new&o1=d",
-          "links": 66,
-          "unique_added": 48
+          "links": 65,
+          "unique_added": 47
         },
         {
           "page": 4,
@@ -37,21 +37,21 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 64,
-          "unique_added": 46
+          "links": 66,
+          "unique_added": 48
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 44
+          "links": 61,
+          "unique_added": 43
         }
       ]
     },
     "Gibson": {
       "pages": 5,
-      "links": 252,
-      "parsed": 252,
+      "links": 254,
+      "parsed": 254,
       "qualifying": 52,
       "page_stats": [
         {
@@ -63,14 +63,14 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 47
+          "links": 70,
+          "unique_added": 48
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 65,
-          "unique_added": 43
+          "links": 66,
+          "unique_added": 44
         },
         {
           "page": 4,
@@ -101,14 +101,38 @@
       ]
     },
     "Fender": {
-      "pages": 1,
-      "links": 47,
-      "parsed": 47,
+      "pages": 5,
+      "links": 247,
+      "parsed": 247,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 3,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
           "links": 47,
           "unique_added": 47
         }
@@ -158,15 +182,15 @@
     },
     "Fractal": {
       "pages": 1,
-      "links": 37,
-      "parsed": 37,
+      "links": 38,
+      "parsed": 38,
       "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fractal&b=1&n=50&s1=new&o1=d",
-          "links": 37,
-          "unique_added": 37
+          "links": 38,
+          "unique_added": 38
         }
       ]
     }
