@@ -221,7 +221,7 @@ def main():
     state = load_state()
     seen = set(state["seen"])
     initialized = set(state["initialized_keywords"])
-    new = {}
+    new = {}  # Deduplicate across all keyword searches by auction ID
     errors, counts = [], {}
     successful = 0
 
