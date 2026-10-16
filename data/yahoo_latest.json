@@ -1,41 +1,23 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-16T19:17:20.624541+00:00",
+  "checked_at": "2026-10-16T20:08:08.154745+00:00",
   "new": [
     {
-      "id": "b1248632028",
+      "id": "c1246810388",
       "keyword": "Gibson",
-      "title": "Gibson ギブソン Les Paul スペシャル 1990年代 現在 150,000円 即決 180,000円 ＋送料4,540円 0 5日",
-      "price": 150000,
-      "buyout": 180000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/b1248632028"
-    },
-    {
-      "id": "r1247840357",
-      "keyword": "Gibson",
-      "title": "【C】GIBSON EXPLORER 1976 エレキギター #00240739 ギブソン 3446465 現在 402,490円 22時39分に終了",
-      "price": 402490,
+      "title": "Gibson・ギブソン・Les Paul Classic・クラシック・1998年製・Gold top・ゴールドトップ・純正ハードケース付・貫禄の一本！ 現在 248,000円 21時31分に終了",
+      "price": 248000,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/r1247840357"
-    },
-    {
-      "id": "w1247833754",
-      "keyword": "Gibson",
-      "title": "【C】GIBSON Les Paul standard エレキギター #180069940 ギブソン 3249160 現在 103,405円 22時4分に終了",
-      "price": 103405,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/w1247833754"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/c1246810388"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 295,
-      "parsed": 295,
+      "links": 296,
+      "parsed": 296,
       "qualifying": 7,
       "page_stats": [
         {
@@ -47,8 +29,8 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 39
+          "links": 59,
+          "unique_added": 40
         },
         {
           "page": 3,
@@ -80,19 +62,19 @@
       "pages": 5,
       "links": 256,
       "parsed": 256,
-      "qualifying": 55,
+      "qualifying": 54,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 67
+          "links": 68,
+          "unique_added": 68
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 48
+          "links": 69,
+          "unique_added": 47
         },
         {
           "page": 3,
@@ -130,8 +112,8 @@
     },
     "Fender": {
       "pages": 6,
-      "links": 297,
-      "parsed": 297,
+      "links": 300,
+      "parsed": 300,
       "qualifying": 0,
       "page_stats": [
         {
@@ -167,8 +149,8 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 47,
-          "unique_added": 47
+          "links": 50,
+          "unique_added": 50
         }
       ]
     },
@@ -229,7 +211,7 @@
       ]
     }
   },
-  "seen_count": 144,
+  "seen_count": 145,
   "initialized_keywords": [
     "Fender",
     "Fractal",
