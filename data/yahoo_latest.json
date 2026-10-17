@@ -1,23 +1,23 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-17T21:08:48.492646+00:00",
+  "checked_at": "2026-10-17T22:07:19.826089+00:00",
   "new": [
     {
-      "id": "g1248761557",
+      "id": "p1248170774",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Standard 60s Unburst 2023年製 美品 AAフレイム 現在 239,900円 22時2分に終了",
-      "price": 239900,
+      "title": "1985年製★Gibson Les Paul Standard Flame Top / ハードケース付属 / 希少な８０年代レスポール 現在 298,000円 22時10分に終了",
+      "price": 298000,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/g1248761557"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/p1248170774"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 292,
-      "parsed": 292,
+      "links": 293,
+      "parsed": 293,
       "qualifying": 11,
       "page_stats": [
         {
@@ -35,40 +35,40 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=101&n=50&s1=new&o1=d",
-          "links": 54,
-          "unique_added": 40
+          "links": 56,
+          "unique_added": 42
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=151&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 48
+          "links": 59,
+          "unique_added": 45
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 48
+          "links": 63,
+          "unique_added": 49
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 45
+          "links": 60,
+          "unique_added": 46
         }
       ]
     },
     "Gibson": {
       "pages": 5,
-      "links": 250,
-      "parsed": 250,
-      "qualifying": 53,
+      "links": 249,
+      "parsed": 249,
+      "qualifying": 51,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 68
+          "links": 69,
+          "unique_added": 69
         },
         {
           "page": 2,
@@ -79,14 +79,14 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 48
+          "links": 69,
+          "unique_added": 47
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 46
+          "links": 67,
+          "unique_added": 45
         },
         {
           "page": 5,
@@ -112,15 +112,15 @@
     },
     "Fender": {
       "pages": 1,
-      "links": 48,
-      "parsed": 48,
+      "links": 47,
+      "parsed": 47,
       "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 48
+          "links": 47,
+          "unique_added": 47
         }
       ]
     },
@@ -181,7 +181,7 @@
       ]
     }
   },
-  "seen_count": 239,
+  "seen_count": 240,
   "initialized_keywords": [
     "Fender",
     "Fractal",
