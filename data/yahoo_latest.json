@@ -1,59 +1,41 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-17T05:12:06.394689+00:00",
+  "checked_at": "2026-10-17T06:10:06.711577+00:00",
   "new": [
     {
-      "id": "c1248675944",
+      "id": "u1248693278",
       "keyword": "Gibson",
-      "title": "Gibson Custom Shop Murphy Lab 1959 レスポール 現在 840,000円 0 7日",
-      "price": 840000,
+      "title": "Gibson Les Paul Standard 60s Unburst 2023年製 美品 AAフレイム 純正HC付 現在 248,900円 即決 249,000円 送料は商品ページ参照 0 3日",
+      "price": 248900,
+      "buyout": 249000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/u1248693278"
+    },
+    {
+      "id": "q1248675368",
+      "keyword": "Gibson",
+      "title": "Gibson ギブソン Angus Young SG 2000年製 ギブソン エレキギター ハードケース付き 楽器 ◆9801 現在 308,000円 ＋送料2,700円 0 3日",
+      "price": 308000,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/c1248675944"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/q1248675368"
     },
     {
-      "id": "s1248691200",
-      "keyword": "Gibson",
-      "title": "GIBSON Murphy Lab 1957 Les Paul Special 現在 440,000円 送料無料 0 7日 未使用",
-      "price": 440000,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/s1248691200"
-    },
-    {
-      "id": "c1248679916",
-      "keyword": "Gibson",
-      "title": "Gibson ギブソンES-335 Dot ジャンク補修ありセミアコースティックギター サンバースト純正ハードケース付き 現在 200,000円 即決 210,000円 ＋送料3,620円 0 2日",
-      "price": 200000,
-      "buyout": 210000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/c1248679916"
-    },
-    {
-      "id": "c1248670195",
-      "keyword": "Gibson",
-      "title": "Gibson Lespaul classic 2017年製 エレキギター 中古 Y11783788 現在 217,910円 ＋送料4,600円 0 7日",
-      "price": 217910,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/c1248670195"
-    },
-    {
-      "id": "l1248692202",
+      "id": "f1248682223",
       "keyword": "Fender",
-      "title": "【used】Fender / American Vintage 62 Jazz Bass 2Knobs 3TS 1994 4.340kg #V070323【GIB横浜】 即決 277,200円 送料無料 0 6日",
-      "price": 277200,
-      "buyout": 277200,
+      "title": "Fender American Professional Telecaster Butterscotch Blonde【チョイキズ特価】 即決 312,620円 ＋送料0円 0 6日 未使用",
+      "price": 312620,
+      "buyout": 312620,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/l1248692202"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/f1248682223"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 298,
-      "parsed": 298,
+      "links": 300,
+      "parsed": 300,
       "qualifying": 10,
       "page_stats": [
         {
@@ -89,8 +71,8 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 44
+          "links": 65,
+          "unique_added": 46
         }
       ]
     },
@@ -98,19 +80,19 @@
       "pages": 5,
       "links": 254,
       "parsed": 254,
-      "qualifying": 49,
+      "qualifying": 52,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 67
+          "links": 68,
+          "unique_added": 68
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 47
+          "links": 69,
+          "unique_added": 46
         },
         {
           "page": 3,
@@ -121,14 +103,14 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 46
+          "links": 71,
+          "unique_added": 48
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 48
+          "links": 47,
+          "unique_added": 46
         }
       ]
     },
@@ -147,32 +129,14 @@
       ]
     },
     "Fender": {
-      "pages": 4,
-      "links": 199,
-      "parsed": 199,
+      "pages": 1,
+      "links": 49,
+      "parsed": 49,
       "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 2,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
           "links": 49,
           "unique_added": 49
         }
@@ -182,7 +146,7 @@
       "pages": 1,
       "links": 47,
       "parsed": 47,
-      "qualifying": 2,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
@@ -228,20 +192,20 @@
     },
     "Fractal": {
       "pages": 1,
-      "links": 37,
-      "parsed": 37,
+      "links": 38,
+      "parsed": 38,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fractal&b=1&n=50&s1=new&o1=d",
-          "links": 37,
-          "unique_added": 37
+          "links": 38,
+          "unique_added": 38
         }
       ]
     }
   },
-  "seen_count": 171,
+  "seen_count": 174,
   "initialized_keywords": [
     "Fender",
     "Fractal",
