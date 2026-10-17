@@ -1,13 +1,23 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-17T18:04:57.228305+00:00",
-  "new": [],
+  "checked_at": "2026-10-17T19:10:10.630522+00:00",
+  "new": [
+    {
+      "id": "c1248754367",
+      "keyword": "Fender",
+      "title": "092s☆Fender フェンダー American Professional Telecaster VWH 2018年製 テレキャスター エレキギター ※中古 現在 188,001円 ＋送料3,700円 0 2日",
+      "price": 188001,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/c1248754367"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 294,
-      "parsed": 294,
+      "links": 293,
+      "parsed": 293,
       "qualifying": 11,
       "page_stats": [
         {
@@ -19,14 +29,14 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 49
+          "links": 64,
+          "unique_added": 50
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=101&n=50&s1=new&o1=d",
-          "links": 55,
-          "unique_added": 41
+          "links": 54,
+          "unique_added": 40
         },
         {
           "page": 4,
@@ -37,8 +47,8 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 49
+          "links": 62,
+          "unique_added": 48
         },
         {
           "page": 6,
@@ -50,15 +60,15 @@
     },
     "Gibson": {
       "pages": 5,
-      "links": 249,
-      "parsed": 249,
-      "qualifying": 54,
+      "links": 250,
+      "parsed": 250,
+      "qualifying": 55,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 68
+          "links": 69,
+          "unique_added": 69
         },
         {
           "page": 2,
@@ -101,10 +111,10 @@
       ]
     },
     "Fender": {
-      "pages": 5,
-      "links": 248,
-      "parsed": 248,
-      "qualifying": 0,
+      "pages": 6,
+      "links": 298,
+      "parsed": 298,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
@@ -133,6 +143,12 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 6,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
           "links": 48,
           "unique_added": 48
         }
@@ -168,15 +184,15 @@
     },
     "Quad Cortex": {
       "pages": 1,
-      "links": 27,
-      "parsed": 27,
+      "links": 28,
+      "parsed": 28,
       "qualifying": 5,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
-          "links": 27,
-          "unique_added": 27
+          "links": 28,
+          "unique_added": 28
         }
       ]
     },
@@ -195,7 +211,7 @@
       ]
     }
   },
-  "seen_count": 235,
+  "seen_count": 236,
   "initialized_keywords": [
     "Fender",
     "Fractal",
