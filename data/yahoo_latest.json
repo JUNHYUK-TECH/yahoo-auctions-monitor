@@ -1,23 +1,13 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-17T22:07:19.826089+00:00",
-  "new": [
-    {
-      "id": "p1248170774",
-      "keyword": "Gibson",
-      "title": "1985年製★Gibson Les Paul Standard Flame Top / ハードケース付属 / 希少な８０年代レスポール 現在 298,000円 22時10分に終了",
-      "price": 298000,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/p1248170774"
-    }
-  ],
+  "checked_at": "2026-10-17T23:05:03.086542+00:00",
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 293,
-      "parsed": 293,
+      "links": 294,
+      "parsed": 294,
       "qualifying": 11,
       "page_stats": [
         {
@@ -35,8 +25,8 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=101&n=50&s1=new&o1=d",
-          "links": 56,
-          "unique_added": 42
+          "links": 57,
+          "unique_added": 43
         },
         {
           "page": 4,
@@ -60,15 +50,15 @@
     },
     "Gibson": {
       "pages": 5,
-      "links": 249,
-      "parsed": 249,
-      "qualifying": 51,
+      "links": 250,
+      "parsed": 250,
+      "qualifying": 53,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 69
+          "links": 68,
+          "unique_added": 68
         },
         {
           "page": 2,
@@ -85,14 +75,14 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 45
+          "links": 68,
+          "unique_added": 46
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 46,
-          "unique_added": 46
+          "links": 47,
+          "unique_added": 47
         }
       ]
     },
@@ -112,15 +102,15 @@
     },
     "Fender": {
       "pages": 1,
-      "links": 47,
-      "parsed": 47,
-      "qualifying": 2,
+      "links": 49,
+      "parsed": 49,
+      "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 47,
-          "unique_added": 47
+          "links": 49,
+          "unique_added": 49
         }
       ]
     },
@@ -154,15 +144,15 @@
     },
     "Quad Cortex": {
       "pages": 1,
-      "links": 28,
-      "parsed": 28,
+      "links": 27,
+      "parsed": 27,
       "qualifying": 5,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Quad+Cortex&b=1&n=50&s1=new&o1=d",
-          "links": 28,
-          "unique_added": 28
+          "links": 27,
+          "unique_added": 27
         }
       ]
     },
