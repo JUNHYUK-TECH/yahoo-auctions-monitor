@@ -1,17 +1,7 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-18T17:10:10.485592+00:00",
-  "new": [
-    {
-      "id": "w1248835900",
-      "keyword": "PRS",
-      "title": "PRS Paul Reed Smith Custom24 2025年製 美品！ 現在 485,000円 即決 500,000円 ＋送料3,480円 0 5日",
-      "price": 485000,
-      "buyout": 500000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/w1248835900"
-    }
-  ],
+  "checked_at": "2026-10-18T18:06:18.057741+00:00",
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -60,9 +50,9 @@
     },
     "Gibson": {
       "pages": 5,
-      "links": 238,
-      "parsed": 238,
-      "qualifying": 46,
+      "links": 239,
+      "parsed": 239,
+      "qualifying": 47,
       "page_stats": [
         {
           "page": 1,
@@ -85,8 +75,8 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 45
+          "links": 69,
+          "unique_added": 46
         },
         {
           "page": 5,
@@ -111,9 +101,9 @@
       ]
     },
     "Fender": {
-      "pages": 3,
-      "links": 149,
-      "parsed": 149,
+      "pages": 6,
+      "links": 300,
+      "parsed": 300,
       "qualifying": 0,
       "page_stats": [
         {
@@ -131,8 +121,26 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 49
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 6,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
         }
       ]
     },
