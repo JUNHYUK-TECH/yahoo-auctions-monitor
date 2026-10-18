@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-18T18:06:18.057741+00:00",
+  "checked_at": "2026-10-18T19:10:29.690028+00:00",
   "new": [],
   "errors": [],
   "counts": {
@@ -50,8 +50,8 @@
     },
     "Gibson": {
       "pages": 5,
-      "links": 239,
-      "parsed": 239,
+      "links": 240,
+      "parsed": 240,
       "qualifying": 47,
       "page_stats": [
         {
@@ -63,8 +63,8 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 37
+          "links": 61,
+          "unique_added": 38
         },
         {
           "page": 3,
@@ -75,14 +75,14 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 46
+          "links": 68,
+          "unique_added": 45
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
           "links": 43,
-          "unique_added": 41
+          "unique_added": 42
         }
       ]
     },
