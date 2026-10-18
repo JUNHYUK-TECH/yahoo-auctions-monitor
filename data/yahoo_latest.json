@@ -1,13 +1,32 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-18T21:08:41.086375+00:00",
-  "new": [],
+  "checked_at": "2026-10-18T22:07:30.116487+00:00",
+  "new": [
+    {
+      "id": "d1248839346",
+      "keyword": "Gibson",
+      "title": "【Gibson S-1】ギブソン ヴィンテージ ロン・ウッドらも使用したモデル 3PU 独自スイッチング機構 個性的なサウンド 木目 音出し確認済 現在 198,000円 ＋送料2,810円 0 6日",
+      "price": 198000,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/d1248839346"
+    },
+    {
+      "id": "e1238998453",
+      "keyword": "Gibson",
+      "title": "Gibson Les Paul 50's tribute 2013 モデル 純正ギグバッグ 2015購入未発送登録カード付 オリジナル フレット残8〜8.5 ネックほぼ真っ直ぐ 現在 122,000円 22時4分に終了",
+      "price": 122000,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/e1238998453"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 292,
-      "parsed": 292,
+      "links": 291,
+      "parsed": 291,
       "qualifying": 12,
       "page_stats": [
         {
@@ -26,19 +45,19 @@
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=101&n=50&s1=new&o1=d",
           "links": 61,
-          "unique_added": 49
+          "unique_added": 48
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=151&n=50&s1=new&o1=d",
-          "links": 55,
-          "unique_added": 43
+          "links": 56,
+          "unique_added": 44
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 48
+          "links": 59,
+          "unique_added": 47
         },
         {
           "page": 6,
@@ -52,7 +71,7 @@
       "pages": 5,
       "links": 241,
       "parsed": 241,
-      "qualifying": 45,
+      "qualifying": 46,
       "page_stats": [
         {
           "page": 1,
@@ -101,46 +120,16 @@
       ]
     },
     "Fender": {
-      "pages": 6,
-      "links": 300,
-      "parsed": 300,
+      "pages": 1,
+      "links": 49,
+      "parsed": 49,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 2,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
+          "links": 49,
+          "unique_added": 49
         }
       ]
     },
@@ -201,7 +190,7 @@
       ]
     }
   },
-  "seen_count": 295,
+  "seen_count": 297,
   "initialized_keywords": [
     "Fender",
     "Fractal",
