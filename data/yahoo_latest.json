@@ -1,15 +1,15 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-19T20:17:23.402167+00:00",
+  "checked_at": "2026-10-19T21:14:01.022942+00:00",
   "new": [
     {
-      "id": "1248972153",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith EXPERIENCE 2010 CUSTOM24 ローズウッドネック TOM HOLMES J450 H453Limited PRS 現在 700,000円 送料未定 0 3日",
-      "price": 700000,
+      "id": "c1248820435",
+      "keyword": "Gibson",
+      "title": "1989年製 Gibson Les Paul Standard チェリーサンバースト ハードケース等付属品付 現在 104,000円 ＋送料2,810円 41 4日",
+      "price": 104000,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/1248972153"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/c1248820435"
     }
   ],
   "errors": [],
@@ -60,15 +60,15 @@
     },
     "Gibson": {
       "pages": 5,
-      "links": 248,
-      "parsed": 248,
-      "qualifying": 39,
+      "links": 249,
+      "parsed": 249,
+      "qualifying": 40,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 67
+          "links": 68,
+          "unique_added": 68
         },
         {
           "page": 2,
@@ -111,46 +111,16 @@
       ]
     },
     "Fender": {
-      "pages": 6,
-      "links": 300,
-      "parsed": 300,
+      "pages": 1,
+      "links": 49,
+      "parsed": 49,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 2,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
+          "links": 49,
+          "unique_added": 49
         }
       ]
     },
@@ -211,7 +181,7 @@
       ]
     }
   },
-  "seen_count": 346,
+  "seen_count": 347,
   "initialized_keywords": [
     "Fender",
     "Fractal",
