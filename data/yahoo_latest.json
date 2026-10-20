@@ -1,24 +1,51 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-20T08:19:06.985183+00:00",
+  "checked_at": "2026-10-20T09:19:19.507838+00:00",
   "new": [
     {
-      "id": "l1249069536",
+      "id": "k1249061945",
       "keyword": "Gibson",
-      "title": "Gibson◆エレキギター/レスポールタイプ/サンバースト系/HH/LP TRAD 即決 264,660円 送料無料 0 6日",
-      "price": 264660,
-      "buyout": 264660,
+      "title": "[中古] Gibson J-45 CS ナローネックが生み出す歯切れの良いトーン 1966年製 [MLG57]【神戸店在庫】 現在 847,977円 即決 847,999円 ＋送料2,780円 0 2日",
+      "price": 847977,
+      "buyout": 847999,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/l1249069536"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/k1249061945"
     },
     {
-      "id": "r1249067782",
+      "id": "s1248226420",
       "keyword": "Gibson",
-      "title": "Gibson SG Special P-90 Cherry エレキギター ハードケース付 即決 189,000円 送料無料 0 3日",
-      "price": 189000,
-      "buyout": 189000,
+      "title": "【D】Gibson 60s LP STANDARD IT エレキギター #020960338 ギブソン 3356998 現在 111,100円 22時54分に終了",
+      "price": 111100,
+      "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/r1249067782"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/s1248226420"
+    },
+    {
+      "id": "f1249066711",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE McCarty 594 Singlecut/Faded Blue (ピーアールエス エスイー マッカーティ)【新潟店】 即決 126,500円 ＋送料2,750円 0 6日",
+      "price": 126500,
+      "buyout": 126500,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/f1249066711"
+    },
+    {
+      "id": "h1249058042",
+      "keyword": "PRS",
+      "title": "Paul Reed Smith(PRS) SE-Custom 24-08/Eriza Verde (ピーアールエス エスイー カスタム24)【新潟店】 即決 115,500円 ＋送料2,750円 0 7日",
+      "price": 115500,
+      "buyout": 115500,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/h1249058042"
+    },
+    {
+      "id": "n1249067259",
+      "keyword": "Fender",
+      "title": "[中古] Fender American Original 50s PB 2019年製/音抜けと明瞭のあるサウンド [VM347]【神戸店在庫】 現在 237,978円 即決 238,000円 ＋送料2,780円 0 2日",
+      "price": 237978,
+      "buyout": 238000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/n1249067259"
     }
   ],
   "errors": [],
@@ -38,14 +65,14 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
-          "links": 62,
-          "unique_added": 49
+          "links": 63,
+          "unique_added": 50
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=101&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 47
+          "links": 59,
+          "unique_added": 46
         },
         {
           "page": 4,
@@ -69,15 +96,15 @@
     },
     "Gibson": {
       "pages": 5,
-      "links": 251,
-      "parsed": 251,
-      "qualifying": 42,
+      "links": 252,
+      "parsed": 252,
+      "qualifying": 46,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 67
+          "links": 69,
+          "unique_added": 69
         },
         {
           "page": 2,
@@ -88,20 +115,20 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 72,
-          "unique_added": 49
+          "links": 70,
+          "unique_added": 47
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 45
+          "links": 69,
+          "unique_added": 47
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
           "links": 48,
-          "unique_added": 48
+          "unique_added": 47
         }
       ]
     },
@@ -120,14 +147,20 @@
       ]
     },
     "Fender": {
-      "pages": 1,
-      "links": 49,
-      "parsed": 49,
-      "qualifying": 0,
+      "pages": 2,
+      "links": 99,
+      "parsed": 99,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
           "links": 49,
           "unique_added": 49
         }
@@ -149,15 +182,15 @@
     },
     "Helix": {
       "pages": 1,
-      "links": 49,
-      "parsed": 49,
+      "links": 48,
+      "parsed": 48,
       "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Helix&b=1&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 49
+          "links": 48,
+          "unique_added": 48
         }
       ]
     },
@@ -177,20 +210,20 @@
     },
     "Fractal": {
       "pages": 1,
-      "links": 39,
-      "parsed": 39,
+      "links": 38,
+      "parsed": 38,
       "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fractal&b=1&n=50&s1=new&o1=d",
-          "links": 39,
-          "unique_added": 39
+          "links": 38,
+          "unique_added": 38
         }
       ]
     }
   },
-  "seen_count": 369,
+  "seen_count": 374,
   "initialized_keywords": [
     "Fender",
     "Fractal",
