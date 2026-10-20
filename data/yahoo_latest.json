@@ -1,34 +1,64 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-20T16:20:17.657996+00:00",
+  "checked_at": "2026-10-20T17:21:34.064979+00:00",
   "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
-      "pages": 1,
-      "links": 47,
-      "parsed": 47,
-      "qualifying": 0,
+      "pages": 6,
+      "links": 289,
+      "parsed": 289,
+      "qualifying": 9,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=1&n=50&s1=new&o1=d",
-          "links": 47,
-          "unique_added": 47
+          "links": 60,
+          "unique_added": 60
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
+          "links": 61,
+          "unique_added": 48
+        },
+        {
+          "page": 3,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=101&n=50&s1=new&o1=d",
+          "links": 59,
+          "unique_added": 46
+        },
+        {
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=151&n=50&s1=new&o1=d",
+          "links": 61,
+          "unique_added": 48
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=201&n=50&s1=new&o1=d",
+          "links": 61,
+          "unique_added": 48
+        },
+        {
+          "page": 6,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=251&n=50&s1=new&o1=d",
+          "links": 52,
+          "unique_added": 39
         }
       ]
     },
     "Gibson": {
-      "pages": 6,
-      "links": 293,
-      "parsed": 293,
-      "qualifying": 41,
+      "pages": 5,
+      "links": 246,
+      "parsed": 246,
+      "qualifying": 34,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 67
+          "links": 66,
+          "unique_added": 66
         },
         {
           "page": 2,
@@ -51,46 +81,28 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 69,
+          "links": 47,
           "unique_added": 47
-        },
-        {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 46
         }
       ]
     },
     "PRS": {
-      "pages": 4,
-      "links": 173,
-      "parsed": 173,
-      "qualifying": 25,
+      "pages": 2,
+      "links": 90,
+      "parsed": 90,
+      "qualifying": 9,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 65,
-          "unique_added": 65
+          "links": 50,
+          "unique_added": 50
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=51&n=50&s1=new&o1=d",
-          "links": 60,
+          "links": 40,
           "unique_added": 40
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=101&n=50&s1=new&o1=d",
-          "links": 54,
-          "unique_added": 34
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=151&n=50&s1=new&o1=d",
-          "links": 39,
-          "unique_added": 34
         }
       ]
     },
