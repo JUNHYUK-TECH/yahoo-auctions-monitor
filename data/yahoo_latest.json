@@ -1,17 +1,7 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-21T17:18:10.404722+00:00",
-  "new": [
-    {
-      "id": "c1249228523",
-      "keyword": "Fractal",
-      "title": "2024 Panini One FOTL Football Ladd McConkey RPA Jersey # 15 /50 Chargers Fractal 海外 即決 即決 376,165円 送料無料 0 5日",
-      "price": 376165,
-      "buyout": 376165,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/c1249228523"
-    }
-  ],
+  "checked_at": "2026-10-21T18:14:41.517225+00:00",
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -60,9 +50,9 @@
     },
     "Gibson": {
       "pages": 5,
-      "links": 252,
-      "parsed": 252,
-      "qualifying": 28,
+      "links": 251,
+      "parsed": 251,
+      "qualifying": 25,
       "page_stats": [
         {
           "page": 1,
@@ -74,25 +64,25 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
           "links": 70,
-          "unique_added": 48
+          "unique_added": 47
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 45
+          "links": 69,
+          "unique_added": 46
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 45
+          "links": 69,
+          "unique_added": 46
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 46
+          "links": 46,
+          "unique_added": 44
         }
       ]
     },
@@ -111,46 +101,16 @@
       ]
     },
     "Fender": {
-      "pages": 6,
-      "links": 300,
-      "parsed": 300,
+      "pages": 1,
+      "links": 48,
+      "parsed": 48,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 2,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
+          "links": 48,
+          "unique_added": 48
         }
       ]
     },
