@@ -1,35 +1,7 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-21T15:19:18.617719+00:00",
-  "new": [
-    {
-      "id": "l1239278704",
-      "keyword": "Gibson",
-      "title": "Gibson Custom Shop 1959 Les Paul Standard VOS Western Desert Fade 2025年製美品 現在 591,000円 21時11分に終了",
-      "price": 591000,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/l1239278704"
-    },
-    {
-      "id": "d1248442761",
-      "keyword": "Gibson",
-      "title": "【J】Gibson Les Paul Custom エレキギター S/N:91230627 1990年製 ギブソン レスポール 3433865 現在 172,205円 22時4分に終了",
-      "price": 172205,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/d1248442761"
-    },
-    {
-      "id": "e1246535541",
-      "keyword": "Gibson",
-      "title": "厳選個体 120周年記念 2014年製 Gibson Les Paul AAA+ Heritage Cherry Traditional 1959 PAF ギブソン レスポール 上位メイプル 4.5kg 現在 299,999円 0 6日 注目度 No.3",
-      "price": 299999,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/e1246535541"
-    }
-  ],
+  "checked_at": "2026-10-21T16:19:19.772817+00:00",
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -80,13 +52,13 @@
       "pages": 5,
       "links": 253,
       "parsed": 253,
-      "qualifying": 31,
+      "qualifying": 30,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 67
+          "links": 68,
+          "unique_added": 68
         },
         {
           "page": 2,
@@ -97,8 +69,8 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 46
+          "links": 68,
+          "unique_added": 45
         },
         {
           "page": 4,
@@ -129,16 +101,34 @@
       ]
     },
     "Fender": {
-      "pages": 1,
-      "links": 48,
-      "parsed": 48,
+      "pages": 4,
+      "links": 199,
+      "parsed": 199,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 48
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 3,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
+          "links": 49,
+          "unique_added": 49
         }
       ]
     },
