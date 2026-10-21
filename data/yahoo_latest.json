@@ -1,13 +1,13 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-21T18:14:41.517225+00:00",
+  "checked_at": "2026-10-21T19:22:39.538791+00:00",
   "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 298,
-      "parsed": 298,
+      "links": 299,
+      "parsed": 299,
       "qualifying": 7,
       "page_stats": [
         {
@@ -43,8 +43,8 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 49
+          "links": 64,
+          "unique_added": 50
         }
       ]
     },
@@ -52,7 +52,7 @@
       "pages": 5,
       "links": 251,
       "parsed": 251,
-      "qualifying": 25,
+      "qualifying": 26,
       "page_stats": [
         {
           "page": 1,
@@ -101,14 +101,20 @@
       ]
     },
     "Fender": {
-      "pages": 1,
-      "links": 48,
-      "parsed": 48,
+      "pages": 2,
+      "links": 98,
+      "parsed": 98,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
           "links": 48,
           "unique_added": 48
         }
