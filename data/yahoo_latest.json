@@ -1,23 +1,13 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-21T21:15:58.250127+00:00",
-  "new": [
-    {
-      "id": "e1249239199",
-      "keyword": "Gibson",
-      "title": "Gibson レスポール 2007年 ヒスコレ ジュニア jr TV junior Les Paul Customshop Historic ギブソン Yellow Special エレキギター 即決 548,000円 送料無料 0 7日",
-      "price": 548000,
-      "buyout": 548000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/e1249239199"
-    }
-  ],
+  "checked_at": "2026-10-21T22:14:59.004006+00:00",
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 300,
-      "parsed": 300,
+      "links": 299,
+      "parsed": 299,
       "qualifying": 7,
       "page_stats": [
         {
@@ -30,13 +20,13 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
           "links": 61,
-          "unique_added": 48
+          "unique_added": 47
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=101&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 46
+          "links": 59,
+          "unique_added": 45
         },
         {
           "page": 4,
@@ -53,16 +43,16 @@
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=251&n=50&s1=new&o1=d",
-          "links": 63,
-          "unique_added": 49
+          "links": 64,
+          "unique_added": 50
         }
       ]
     },
     "Gibson": {
       "pages": 5,
-      "links": 252,
-      "parsed": 252,
-      "qualifying": 27,
+      "links": 251,
+      "parsed": 251,
+      "qualifying": 25,
       "page_stats": [
         {
           "page": 1,
@@ -86,7 +76,7 @@
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
           "links": 69,
-          "unique_added": 47
+          "unique_added": 46
         },
         {
           "page": 5,
@@ -112,15 +102,15 @@
     },
     "Fender": {
       "pages": 1,
-      "links": 48,
-      "parsed": 48,
+      "links": 46,
+      "parsed": 46,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 48
+          "links": 46,
+          "unique_added": 46
         }
       ]
     },
