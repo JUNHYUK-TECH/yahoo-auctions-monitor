@@ -1,15 +1,15 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-22T16:19:41.338359+00:00",
+  "checked_at": "2026-10-22T17:17:17.976624+00:00",
   "new": [
     {
-      "id": "d1221983134",
-      "keyword": "Gibson",
-      "title": "●【Gibson ギブソン LesPaul Standard レスポール スタンダード エレキギター 1978年製 ヴィンテージ MADE IN U.S.A】SF-14197 現在 356,400円 22時16分に終了",
-      "price": 356400,
+      "id": "c1236632400",
+      "keyword": "PRS",
+      "title": "[良品] Paul Reed Smith（PRS） Custom 22 10Top 20th anniversary 記念モデルならではの存在感 2006年製 [SMR25]【阿倍野店在庫】 現在 377,977円 22時30分に終了",
+      "price": 377977,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/d1221983134"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/c1236632400"
     }
   ],
   "errors": [],
@@ -30,9 +30,9 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 301,
-      "parsed": 301,
-      "qualifying": 43,
+      "links": 300,
+      "parsed": 300,
+      "qualifying": 41,
       "page_stats": [
         {
           "page": 1,
@@ -61,22 +61,22 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 47
+          "links": 71,
+          "unique_added": 48
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 46
+          "links": 67,
+          "unique_added": 44
         }
       ]
     },
     "PRS": {
       "pages": 4,
-      "links": 173,
-      "parsed": 173,
-      "qualifying": 23,
+      "links": 174,
+      "parsed": 174,
+      "qualifying": 24,
       "page_stats": [
         {
           "page": 1,
@@ -88,26 +88,26 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=51&n=50&s1=new&o1=d",
           "links": 64,
-          "unique_added": 44
+          "unique_added": 45
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=101&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 40
+          "links": 59,
+          "unique_added": 39
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=151&n=50&s1=new&o1=d",
-          "links": 39,
-          "unique_added": 33
+          "links": 40,
+          "unique_added": 34
         }
       ]
     },
     "Fender": {
-      "pages": 6,
-      "links": 300,
-      "parsed": 300,
+      "pages": 2,
+      "links": 99,
+      "parsed": 99,
       "qualifying": 0,
       "page_stats": [
         {
@@ -119,32 +119,8 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
+          "links": 49,
+          "unique_added": 49
         }
       ]
     },
@@ -205,7 +181,7 @@
       ]
     }
   },
-  "seen_count": 454,
+  "seen_count": 455,
   "initialized_keywords": [
     "Fender",
     "Fractal",
