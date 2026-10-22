@@ -1,15 +1,15 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-22T19:23:21.221105+00:00",
+  "checked_at": "2026-10-22T20:16:43.383758+00:00",
   "new": [
     {
-      "id": "l1249150129",
+      "id": "f1245747942",
       "keyword": "Gibson",
-      "title": "【 D 】K1244 Gibson ES-345TD STEREO #70168237 セミアコギター ギブソン 3202088 現在 103,412円 ＋送料3,660円 28 5日",
-      "price": 103412,
+      "title": "Gibson RD Custom 1977年 エレキギター ビンテージ ギブソン 中古 S11694297 現在 336,193円 22時8分に終了",
+      "price": 336193,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/l1249150129"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/f1245747942"
     }
   ],
   "errors": [],
@@ -32,7 +32,7 @@
       "pages": 6,
       "links": 301,
       "parsed": 301,
-      "qualifying": 43,
+      "qualifying": 44,
       "page_stats": [
         {
           "page": 1,
@@ -74,9 +74,9 @@
     },
     "PRS": {
       "pages": 4,
-      "links": 174,
-      "parsed": 174,
-      "qualifying": 24,
+      "links": 173,
+      "parsed": 173,
+      "qualifying": 23,
       "page_stats": [
         {
           "page": 1,
@@ -94,7 +94,7 @@
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=101&n=50&s1=new&o1=d",
           "links": 60,
-          "unique_added": 41
+          "unique_added": 40
         },
         {
           "page": 4,
@@ -106,8 +106,8 @@
     },
     "Fender": {
       "pages": 5,
-      "links": 249,
-      "parsed": 249,
+      "links": 248,
+      "parsed": 248,
       "qualifying": 0,
       "page_stats": [
         {
@@ -126,7 +126,7 @@
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 49
         },
         {
           "page": 4,
@@ -199,7 +199,7 @@
       ]
     }
   },
-  "seen_count": 456,
+  "seen_count": 457,
   "initialized_keywords": [
     "Fender",
     "Fractal",
