@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-22T22:24:28.558108+00:00",
+  "checked_at": "2026-10-22T23:14:14.417402+00:00",
   "new": [],
   "errors": [],
   "counts": {
@@ -50,15 +50,15 @@
     },
     "Gibson": {
       "pages": 5,
-      "links": 257,
-      "parsed": 257,
-      "qualifying": 40,
+      "links": 256,
+      "parsed": 256,
+      "qualifying": 41,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 65,
-          "unique_added": 65
+          "links": 64,
+          "unique_added": 64
         },
         {
           "page": 2,
@@ -69,14 +69,14 @@
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 71,
-          "unique_added": 48
+          "links": 72,
+          "unique_added": 49
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 47
+          "links": 69,
+          "unique_added": 46
         },
         {
           "page": 5,
@@ -102,15 +102,15 @@
     },
     "Fender": {
       "pages": 1,
-      "links": 48,
-      "parsed": 48,
+      "links": 47,
+      "parsed": 47,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 48
+          "links": 47,
+          "unique_added": 47
         }
       ]
     },
@@ -130,15 +130,15 @@
     },
     "Helix": {
       "pages": 1,
-      "links": 39,
-      "parsed": 39,
+      "links": 38,
+      "parsed": 38,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Helix&b=1&n=50&s1=new&o1=d",
-          "links": 39,
-          "unique_added": 39
+          "links": 38,
+          "unique_added": 38
         }
       ]
     },
