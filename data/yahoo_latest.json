@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-24T20:06:15.694337+00:00",
+  "checked_at": "2026-10-24T21:09:07.505342+00:00",
   "new": [],
   "errors": [],
   "counts": {
@@ -50,39 +50,39 @@
     },
     "Gibson": {
       "pages": 5,
-      "links": 251,
-      "parsed": 251,
+      "links": 250,
+      "parsed": 250,
       "qualifying": 53,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 69,
-          "unique_added": 69
+          "links": 68,
+          "unique_added": 68
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 46
+          "links": 67,
+          "unique_added": 45
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 67,
+          "links": 66,
           "unique_added": 44
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 69,
+          "links": 68,
           "unique_added": 46
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 47,
-          "unique_added": 46
+          "links": 48,
+          "unique_added": 47
         }
       ]
     },
@@ -102,15 +102,15 @@
     },
     "Fender": {
       "pages": 1,
-      "links": 49,
-      "parsed": 49,
+      "links": 48,
+      "parsed": 48,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 49
+          "links": 48,
+          "unique_added": 48
         }
       ]
     },
