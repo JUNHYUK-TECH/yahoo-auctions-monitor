@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-24T19:14:36.122017+00:00",
+  "checked_at": "2026-10-24T20:06:15.694337+00:00",
   "new": [],
   "errors": [],
   "counts": {
@@ -50,9 +50,9 @@
     },
     "Gibson": {
       "pages": 5,
-      "links": 250,
-      "parsed": 250,
-      "qualifying": 52,
+      "links": 251,
+      "parsed": 251,
+      "qualifying": 53,
       "page_stats": [
         {
           "page": 1,
@@ -64,7 +64,7 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
           "links": 68,
-          "unique_added": 45
+          "unique_added": 46
         },
         {
           "page": 3,
@@ -88,51 +88,27 @@
     },
     "PRS": {
       "pages": 1,
-      "links": 47,
-      "parsed": 47,
+      "links": 46,
+      "parsed": 46,
       "qualifying": 7,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=PRS&b=1&n=50&s1=new&o1=d",
-          "links": 47,
-          "unique_added": 47
+          "links": 46,
+          "unique_added": 46
         }
       ]
     },
     "Fender": {
-      "pages": 5,
-      "links": 243,
-      "parsed": 243,
+      "pages": 1,
+      "links": 49,
+      "parsed": 49,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 2,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 48
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 49
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 47
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
           "links": 49,
           "unique_added": 49
         }
@@ -182,15 +158,15 @@
     },
     "Fractal": {
       "pages": 1,
-      "links": 38,
-      "parsed": 38,
+      "links": 39,
+      "parsed": 39,
       "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fractal&b=1&n=50&s1=new&o1=d",
-          "links": 38,
-          "unique_added": 38
+          "links": 39,
+          "unique_added": 39
         }
       ]
     }
