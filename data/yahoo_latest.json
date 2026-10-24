@@ -1,24 +1,33 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-24T16:11:48.625498+00:00",
+  "checked_at": "2026-10-24T17:12:06.781484+00:00",
   "new": [
     {
-      "id": "d1249601574",
+      "id": "t1249608270",
       "keyword": "Gibson",
-      "title": "ハードケース付 GIBSON ギブソン ES-135 セミアコ エレキギター 現在 239,800円 ＋送料4,780円 0 1日",
-      "price": 239800,
-      "buyout": null,
+      "title": "Gibson◆Les Paul Studio/1997/490R+498T/セットネック/Wine Red/// 即決 143,660円 送料無料 0 7日",
+      "price": 143660,
+      "buyout": 143660,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/d1249601574"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/t1249608270"
     },
     {
-      "id": "s1240419547",
-      "keyword": "PRS",
-      "title": "Paul Reed Smith(PRS) Custom22 10Top Natural 2005年製 即決 398,000円 21時54分に終了",
-      "price": 398000,
-      "buyout": 398000,
+      "id": "t1249602938",
+      "keyword": "Gibson",
+      "title": "Gibson◆Les Paul Studio/1996/490R+498T/Wine Red/レスポール// 即決 143,660円 送料無料 0 6日",
+      "price": 143660,
+      "buyout": 143660,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/s1240419547"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/t1249602938"
+    },
+    {
+      "id": "l1249611436",
+      "keyword": "Gibson",
+      "title": "Gibson ES-175D PATENT NO.ハムバッカー搭載 ジグザグテールピース フルアコ 1965年or1968年製造ヴィンテージ 現状品 現在 900,000円 即決 950,000円 送料無料 0 2日",
+      "price": 900000,
+      "buyout": 950000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/l1249611436"
     }
   ],
   "errors": [],
@@ -39,21 +48,21 @@
     },
     "Gibson": {
       "pages": 6,
-      "links": 297,
-      "parsed": 297,
-      "qualifying": 66,
+      "links": 296,
+      "parsed": 296,
+      "qualifying": 68,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=1&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 70
+          "links": 71,
+          "unique_added": 71
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 45
+          "links": 67,
+          "unique_added": 44
         },
         {
           "page": 3,
@@ -70,14 +79,14 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=201&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 44
+          "links": 69,
+          "unique_added": 46
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=251&n=50&s1=new&o1=d",
-          "links": 70,
-          "unique_added": 48
+          "links": 68,
+          "unique_added": 45
         }
       ]
     },
@@ -114,9 +123,9 @@
       ]
     },
     "Fender": {
-      "pages": 6,
-      "links": 299,
-      "parsed": 299,
+      "pages": 2,
+      "links": 99,
+      "parsed": 99,
       "qualifying": 0,
       "page_stats": [
         {
@@ -128,32 +137,8 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
-          "links": 50,
+          "links": 49,
           "unique_added": 49
-        },
-        {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
-          "links": 50,
-          "unique_added": 50
         }
       ]
     },
@@ -214,7 +199,7 @@
       ]
     }
   },
-  "seen_count": 561,
+  "seen_count": 564,
   "initialized_keywords": [
     "Fender",
     "Fractal",
