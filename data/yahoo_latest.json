@@ -1,39 +1,75 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-24T00:13:39.835751+00:00",
+  "checked_at": "2026-10-24T01:28:35.586468+00:00",
   "new": [
     {
-      "id": "n1245205277",
+      "id": "p1249543985",
       "keyword": "Gibson",
-      "title": "Gibson Les Paul Junior ダブルカッタウェイ TVイエロー 即決 180,000円 23時5分に終了",
-      "price": 180000,
-      "buyout": 180000,
+      "title": "【Gibson Fair 2026】Gibson SJ-200 Original Antique Natural (ギブソン SJ200 オリジナル アコースティックギター エレアコ)【三条店】 即決 828,300円 ＋送料2,750円 0 7日 未使用",
+      "price": 828300,
+      "buyout": 828300,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/n1245205277"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/p1249543985"
     },
     {
-      "id": "c1249533773",
-      "keyword": "Fender",
-      "title": "Fender USA Eric Clapton Stratocaster 1996年製 Lace Sensor Gold Olympic White ツイードケース付属 現在 170,000円 送料未定 0 7日",
-      "price": 170000,
+      "id": "p1249549704",
+      "keyword": "Gibson",
+      "title": "【Gibson Fair 2026】Gibson Custom Shop 1957 Les Paul Junior Reissue VOS TV Yellow (カスタムショップ レスポール ジュニア)【三条店】 即決 580,800円 ＋送料2,750円 0 7日 未使用",
+      "price": 580800,
+      "buyout": 580800,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/p1249549704"
+    },
+    {
+      "id": "d1249541875",
+      "keyword": "Gibson",
+      "title": "ギブソン USA レスポール スタンダード 50s Gibson Les paul Standard Blueberry Burst 現在 240,000円 ＋送料3,470円 0 3日",
+      "price": 240000,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/c1249533773"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/d1249541875"
+    },
+    {
+      "id": "x1249471800",
+      "keyword": "Gibson",
+      "title": "Gibson Custom Shop Historic Collection 1958 Les Paul Standard Reissue VOS Faded Tobacco / 2010 ヒスコレ LPR-8 3435415 D1030 現在 100,100円 即決 594,000円 送料無料 19 6日",
+      "price": 100100,
+      "buyout": 594000,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/x1249471800"
+    },
+    {
+      "id": "j1249477805",
+      "keyword": "Gibson",
+      "title": "【C】Gibson ES-175D エレキギター ギブソン 3390594 現在 197,868円 ＋送料6,540円 21 6日",
+      "price": 197868,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/j1249477805"
+    },
+    {
+      "id": "k1249334748",
+      "keyword": "Gibson",
+      "title": "【D】GIBSON LG-1 アコースティックギター #130812 ギブソン 3397551 現在 106,700円 ＋送料4,480円 53 4日",
+      "price": 106700,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/k1249334748"
     }
   ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 291,
-      "parsed": 291,
+      "links": 290,
+      "parsed": 290,
       "qualifying": 4,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=1&n=50&s1=new&o1=d",
-          "links": 61,
-          "unique_added": 61
+          "links": 60,
+          "unique_added": 60
         },
         {
           "page": 2,
@@ -50,14 +86,14 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=151&n=50&s1=new&o1=d",
-          "links": 56,
-          "unique_added": 44
+          "links": 57,
+          "unique_added": 45
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 60,
-          "unique_added": 48
+          "links": 59,
+          "unique_added": 47
         },
         {
           "page": 6,
@@ -69,9 +105,9 @@
     },
     "Gibson": {
       "pages": 5,
-      "links": 245,
-      "parsed": 245,
-      "qualifying": 42,
+      "links": 246,
+      "parsed": 246,
+      "qualifying": 45,
       "page_stats": [
         {
           "page": 1,
@@ -82,20 +118,20 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 44
+          "links": 68,
+          "unique_added": 45
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 44
+          "links": 68,
+          "unique_added": 45
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 67,
-          "unique_added": 44
+          "links": 66,
+          "unique_added": 43
         },
         {
           "page": 5,
@@ -121,15 +157,15 @@
     },
     "Fender": {
       "pages": 1,
-      "links": 49,
-      "parsed": 49,
-      "qualifying": 1,
+      "links": 48,
+      "parsed": 48,
+      "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 49
+          "links": 48,
+          "unique_added": 48
         }
       ]
     },
@@ -177,20 +213,20 @@
     },
     "Fractal": {
       "pages": 1,
-      "links": 41,
-      "parsed": 41,
+      "links": 40,
+      "parsed": 40,
       "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fractal&b=1&n=50&s1=new&o1=d",
-          "links": 41,
-          "unique_added": 41
+          "links": 40,
+          "unique_added": 40
         }
       ]
     }
   },
-  "seen_count": 505,
+  "seen_count": 511,
   "initialized_keywords": [
     "Fender",
     "Fractal",
