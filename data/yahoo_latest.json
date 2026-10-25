@@ -1,35 +1,7 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-25T15:11:20.077734+00:00",
-  "new": [
-    {
-      "id": "t1249711306",
-      "keyword": "Gibson",
-      "title": "◆◇ヴィンテージGibson LP Special 1989 USA◇◆ 現在 176,000円 即決 265,000円 送料未定 0 6日",
-      "price": 176000,
-      "buyout": 265000,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/t1249711306"
-    },
-    {
-      "id": "v1192535103",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul 2017トラディショナルＴプラス AAAメイプルトップ WizzPickups Premium PAF Clone換装 現在 398,000円 0 3日",
-      "price": 398000,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/v1192535103"
-    },
-    {
-      "id": "1249581637",
-      "keyword": "Gibson",
-      "title": "【C】Gibson SG Standard 61 Maestro Vibrola 2019年製 ギブソン ヴァイヴローラ ハードケース付き 10004520【送料無料!!】 現在 102,301円 即決 290,400円 送料無料 53 3日",
-      "price": 102301,
-      "buyout": 290400,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/1249581637"
-    }
-  ],
+  "checked_at": "2026-10-25T16:13:00.477395+00:00",
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
@@ -47,8 +19,8 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 47
+          "links": 60,
+          "unique_added": 48
         },
         {
           "page": 3,
@@ -65,8 +37,8 @@
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 57,
-          "unique_added": 45
+          "links": 56,
+          "unique_added": 44
         },
         {
           "page": 6,
@@ -78,9 +50,9 @@
     },
     "Gibson": {
       "pages": 5,
-      "links": 257,
-      "parsed": 257,
-      "qualifying": 51,
+      "links": 258,
+      "parsed": 258,
+      "qualifying": 49,
       "page_stats": [
         {
           "page": 1,
@@ -98,7 +70,7 @@
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=101&n=50&s1=new&o1=d",
           "links": 67,
-          "unique_added": 43
+          "unique_added": 44
         },
         {
           "page": 4,
@@ -129,16 +101,46 @@
       ]
     },
     "Fender": {
-      "pages": 1,
-      "links": 48,
-      "parsed": 48,
+      "pages": 6,
+      "links": 299,
+      "parsed": 299,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 48,
-          "unique_added": 48
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=51&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 3,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=101&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=151&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=201&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 50
+        },
+        {
+          "page": 6,
+          "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=251&n=50&s1=new&o1=d",
+          "links": 50,
+          "unique_added": 49
         }
       ]
     },
