@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-25T17:13:09.827938+00:00",
+  "checked_at": "2026-10-25T18:09:05.030974+00:00",
   "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
-      "links": 291,
-      "parsed": 291,
+      "links": 290,
+      "parsed": 290,
       "qualifying": 4,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=1&n=50&s1=new&o1=d",
-          "links": 58,
-          "unique_added": 58
+          "links": 57,
+          "unique_added": 57
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
-          "links": 59,
-          "unique_added": 47
+          "links": 60,
+          "unique_added": 48
         },
         {
           "page": 3,
@@ -32,12 +32,12 @@
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=151&n=50&s1=new&o1=d",
           "links": 60,
-          "unique_added": 49
+          "unique_added": 48
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 57,
+          "links": 56,
           "unique_added": 44
         },
         {
