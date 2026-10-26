@@ -1,14 +1,24 @@
 {
   "status": "ok",
-  "checked_at": "2026-10-26T21:28:23.456759+00:00",
-  "new": [],
+  "checked_at": "2026-10-26T22:16:58.248525+00:00",
+  "new": [
+    {
+      "id": "p1249868339",
+      "keyword": "Tyler",
+      "title": "【初期物】James Tyler USA Studio Elite No.693 1997年製 マムヨボディ/バーズアイネック フルオプション回路仕様 現在 750,000円 0 5日 注目度 No.1",
+      "price": 750000,
+      "buyout": null,
+      "end": null,
+      "url": "https://auctions.yahoo.co.jp/jp/auction/p1249868339"
+    }
+  ],
   "errors": [],
   "counts": {
     "Tyler": {
       "pages": 6,
       "links": 288,
       "parsed": 288,
-      "qualifying": 5,
+      "qualifying": 6,
       "page_stats": [
         {
           "page": 1,
@@ -19,39 +29,39 @@
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=51&n=50&s1=new&o1=d",
-          "links": 59,
+          "links": 60,
           "unique_added": 47
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=101&n=50&s1=new&o1=d",
-          "links": 59,
+          "links": 60,
           "unique_added": 47
         },
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=151&n=50&s1=new&o1=d",
-          "links": 56,
-          "unique_added": 44
+          "links": 58,
+          "unique_added": 45
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=201&n=50&s1=new&o1=d",
-          "links": 59,
+          "links": 60,
           "unique_added": 47
         },
         {
           "page": 6,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Tyler&b=251&n=50&s1=new&o1=d",
           "links": 59,
-          "unique_added": 47
+          "unique_added": 46
         }
       ]
     },
     "Gibson": {
       "pages": 5,
-      "links": 259,
-      "parsed": 259,
+      "links": 257,
+      "parsed": 257,
       "qualifying": 46,
       "page_stats": [
         {
@@ -64,7 +74,7 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=51&n=50&s1=new&o1=d",
           "links": 69,
-          "unique_added": 48
+          "unique_added": 47
         },
         {
           "page": 3,
@@ -75,8 +85,8 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Gibson&b=151&n=50&s1=new&o1=d",
-          "links": 68,
-          "unique_added": 46
+          "links": 67,
+          "unique_added": 45
         },
         {
           "page": 5,
@@ -102,15 +112,15 @@
     },
     "Fender": {
       "pages": 1,
-      "links": 49,
-      "parsed": 49,
+      "links": 48,
+      "parsed": 48,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search?p=Fender&b=1&n=50&s1=new&o1=d",
-          "links": 49,
-          "unique_added": 49
+          "links": 48,
+          "unique_added": 48
         }
       ]
     },
@@ -171,7 +181,7 @@
       ]
     }
   },
-  "seen_count": 647,
+  "seen_count": 648,
   "initialized_keywords": [
     "Fender",
     "Fractal",
