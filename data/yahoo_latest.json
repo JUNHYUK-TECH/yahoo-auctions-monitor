@@ -1,69 +1,33 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-15T18:01:51.152811+00:00",
+  "checked_at": "2026-11-15T23:14:15.421873+00:00",
   "new": [
     {
-      "id": "w1252457529",
+      "id": "b1252472781",
       "keyword": "Gibson",
-      "title": "Gibson ハミングバード 100th 現在 240,000円 即決 260,000円 送料無料 0 3日",
-      "price": 240000,
-      "buyout": 260000,
+      "title": "Gibson Les Paul Standard DC Plus 2005年製 即決 230,000円 送料無料 0 7日",
+      "price": 230000,
+      "buyout": 230000,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/w1252457529"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/b1252472781"
     },
     {
-      "id": "r1252462883",
+      "id": "e1251678481",
       "keyword": "Gibson",
-      "title": "軽量 Gibson Les Paul Standard 約3.5kg 2009年ギブソン レスポールスタンダード 現在 278,000円 ＋送料2,810円 0 6日",
-      "price": 278000,
+      "title": "【G】GIBSON Southern Jumbo 01262042 アコースティックギター ギブソン 3257008 現在 135,544円 22時22分に終了",
+      "price": 135544,
       "buyout": null,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/r1252462883"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/e1251678481"
     },
     {
-      "id": "c1252449746",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Studio HP 2016年製 G-Force搭載 チタンナット コイルタップ ヒールレス仕様 ギブソン レスポール スタジオ 現在 154,999円 即決 155,000円 送料無料 0 20時間",
-      "price": 154999,
-      "buyout": 155000,
+      "id": "j1252479901",
+      "keyword": "Helix",
+      "title": "LINE6 HELIX FLOOR 即決 120,000円 ＋送料1,940円 0 6日",
+      "price": 120000,
+      "buyout": 120000,
       "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/c1252449746"
-    },
-    {
-      "id": "r1252461083",
-      "keyword": "Gibson",
-      "title": "Gibson J-45 Standard Heritage Cherry Sunburst エレアコ ピックアップ搭載 アコースティックギター ギブソン 現在 265,000円 送料無料 0 3日",
-      "price": 265000,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/r1252461083"
-    },
-    {
-      "id": "g1251653285",
-      "keyword": "Gibson",
-      "title": "Gibson Les Paul Custom '90 レスポールカスタム ブラック ギブソン 現在 331,000円 21時43分に終了",
-      "price": 331000,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/g1251653285"
-    },
-    {
-      "id": "w1251677539",
-      "keyword": "Gibson",
-      "title": "2003年製 Gibson ES-135H セミアコースティックギター ギブソン 純正HC付 現在 133,500円 22時59分に終了",
-      "price": 133500,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/w1251677539"
-    },
-    {
-      "id": "p1251677539",
-      "keyword": "Gibson",
-      "title": "【G】GIBSON ES-339 セミアコ/エレキギター ギブソン 3360286 現在 111,100円 22時54分に終了",
-      "price": 111100,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/p1251677539"
+      "url": "https://auctions.yahoo.co.jp/jp/auction/j1252479901"
     }
   ],
   "errors": [],
@@ -84,7 +48,7 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search/Tyler/0?fixed=0&b=51&n=50&select=22",
           "links": 60,
-          "unique_added": 48
+          "unique_added": 47
         },
         {
           "page": 3,
@@ -95,14 +59,14 @@
         {
           "page": 4,
           "url": "https://auctions.yahoo.co.jp/search/search/Tyler/0?fixed=0&b=151&n=50&select=22",
-          "links": 57,
-          "unique_added": 44
+          "links": 59,
+          "unique_added": 46
         },
         {
           "page": 5,
           "url": "https://auctions.yahoo.co.jp/search/search/Tyler/0?fixed=0&b=201&n=50&select=22",
-          "links": 62,
-          "unique_added": 49
+          "links": 61,
+          "unique_added": 48
         },
         {
           "page": 6,
@@ -114,27 +78,27 @@
     },
     "Gibson": {
       "pages": 5,
-      "links": 256,
-      "parsed": 256,
+      "links": 254,
+      "parsed": 254,
       "qualifying": 43,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search/Gibson/0?fixed=0&b=1&n=50&select=22",
-          "links": 67,
-          "unique_added": 67
+          "links": 65,
+          "unique_added": 65
         },
         {
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search/Gibson/0?fixed=0&b=51&n=50&select=22",
-          "links": 70,
-          "unique_added": 47
+          "links": 71,
+          "unique_added": 48
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search/Gibson/0?fixed=0&b=101&n=50&select=22",
-          "links": 68,
-          "unique_added": 45
+          "links": 67,
+          "unique_added": 44
         },
         {
           "page": 4,
@@ -154,7 +118,7 @@
       "pages": 1,
       "links": 43,
       "parsed": 43,
-      "qualifying": 6,
+      "qualifying": 5,
       "page_stats": [
         {
           "page": 1,
@@ -165,9 +129,9 @@
       ]
     },
     "Fender": {
-      "pages": 4,
-      "links": 198,
-      "parsed": 198,
+      "pages": 3,
+      "links": 146,
+      "parsed": 146,
       "qualifying": 0,
       "page_stats": [
         {
@@ -180,18 +144,12 @@
           "page": 2,
           "url": "https://auctions.yahoo.co.jp/search/search/Fender/0?fixed=0&b=51&n=50&select=22",
           "links": 50,
-          "unique_added": 50
+          "unique_added": 48
         },
         {
           "page": 3,
           "url": "https://auctions.yahoo.co.jp/search/search/Fender/0?fixed=0&b=101&n=50&select=22",
-          "links": 50,
-          "unique_added": 50
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/search/search/Fender/0?fixed=0&b=151&n=50&select=22",
-          "links": 48,
+          "links": 49,
           "unique_added": 48
         }
       ]
@@ -212,15 +170,15 @@
     },
     "Helix": {
       "pages": 1,
-      "links": 46,
-      "parsed": 46,
-      "qualifying": 0,
+      "links": 45,
+      "parsed": 45,
+      "qualifying": 1,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search/Helix/0?fixed=0&b=1&n=50&select=22",
-          "links": 46,
-          "unique_added": 46
+          "links": 45,
+          "unique_added": 45
         }
       ]
     },
@@ -253,7 +211,7 @@
       ]
     }
   },
-  "seen_count": 1283,
+  "seen_count": 1286,
   "initialized_keywords": [
     "Fender",
     "Fractal",
