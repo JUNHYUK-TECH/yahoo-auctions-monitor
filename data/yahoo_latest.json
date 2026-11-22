@@ -1,106 +1,102 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-21T21:15:42.945407+00:00",
-  "new": [
-    {
-      "id": "1253248334",
-      "keyword": "Fender",
-      "title": "092s☆Fender Custom Shop フェンダー LTD 1956 Relic Stratocaster Wide Fade 2TS 2023年製 2016 COLLECTION ストラトキャスター ※中古 現在 728,000円 ＋送料3,700円 0 2日",
-      "price": 728000,
-      "buyout": null,
-      "end": null,
-      "url": "https://auctions.yahoo.co.jp/jp/auction/1253248334"
-    }
-  ],
+  "checked_at": "2026-11-22T01:42:09.987446+00:00",
+  "new": [],
   "errors": [],
   "counts": {
     "Tyler": {
-      "pages": 1,
-      "links": 49,
-      "parsed": 49,
-      "qualifying": 0,
+      "pages": 6,
+      "links": 289,
+      "parsed": 289,
+      "qualifying": 2,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search/Tyler/0?fixed=0&b=1&n=50&select=22",
-          "links": 49,
-          "unique_added": 49
-        }
-      ]
-    },
-    "Gibson": {
-      "pages": 6,
-      "links": 290,
-      "parsed": 290,
-      "qualifying": 64,
-      "page_stats": [
-        {
-          "page": 1,
-          "url": "https://auctions.yahoo.co.jp/search/search/Gibson/0?fixed=0&b=1&n=50&select=22",
-          "links": 64,
-          "unique_added": 64
+          "links": 60,
+          "unique_added": 60
         },
         {
           "page": 2,
-          "url": "https://auctions.yahoo.co.jp/search/search/Gibson/0?fixed=0&b=51&n=50&select=22",
-          "links": 71,
+          "url": "https://auctions.yahoo.co.jp/search/search/Tyler/0?fixed=0&b=51&n=50&select=22",
+          "links": 59,
           "unique_added": 47
         },
         {
           "page": 3,
-          "url": "https://auctions.yahoo.co.jp/search/search/Gibson/0?fixed=0&b=101&n=50&select=22",
-          "links": 69,
+          "url": "https://auctions.yahoo.co.jp/search/search/Tyler/0?fixed=0&b=101&n=50&select=22",
+          "links": 57,
           "unique_added": 45
         },
         {
           "page": 4,
-          "url": "https://auctions.yahoo.co.jp/search/search/Gibson/0?fixed=0&b=151&n=50&select=22",
+          "url": "https://auctions.yahoo.co.jp/search/search/Tyler/0?fixed=0&b=151&n=50&select=22",
+          "links": 59,
+          "unique_added": 47
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/search/search/Tyler/0?fixed=0&b=201&n=50&select=22",
+          "links": 57,
+          "unique_added": 45
+        },
+        {
+          "page": 6,
+          "url": "https://auctions.yahoo.co.jp/search/search/Tyler/0?fixed=0&b=251&n=50&select=22",
+          "links": 57,
+          "unique_added": 45
+        }
+      ]
+    },
+    "Gibson": {
+      "pages": 5,
+      "links": 247,
+      "parsed": 247,
+      "qualifying": 50,
+      "page_stats": [
+        {
+          "page": 1,
+          "url": "https://auctions.yahoo.co.jp/search/search/Gibson/0?fixed=0&b=1&n=50&select=22",
+          "links": 70,
+          "unique_added": 70
+        },
+        {
+          "page": 2,
+          "url": "https://auctions.yahoo.co.jp/search/search/Gibson/0?fixed=0&b=51&n=50&select=22",
           "links": 66,
           "unique_added": 42
         },
         {
-          "page": 5,
-          "url": "https://auctions.yahoo.co.jp/search/search/Gibson/0?fixed=0&b=201&n=50&select=22",
+          "page": 3,
+          "url": "https://auctions.yahoo.co.jp/search/search/Gibson/0?fixed=0&b=101&n=50&select=22",
           "links": 70,
           "unique_added": 46
         },
         {
-          "page": 6,
-          "url": "https://auctions.yahoo.co.jp/search/search/Gibson/0?fixed=0&b=251&n=50&select=22",
-          "links": 70,
-          "unique_added": 46
+          "page": 4,
+          "url": "https://auctions.yahoo.co.jp/search/search/Gibson/0?fixed=0&b=151&n=50&select=22",
+          "links": 69,
+          "unique_added": 45
+        },
+        {
+          "page": 5,
+          "url": "https://auctions.yahoo.co.jp/search/search/Gibson/0?fixed=0&b=201&n=50&select=22",
+          "links": 44,
+          "unique_added": 44
         }
       ]
     },
     "PRS": {
-      "pages": 4,
-      "links": 168,
-      "parsed": 168,
-      "qualifying": 27,
+      "pages": 1,
+      "links": 41,
+      "parsed": 41,
+      "qualifying": 14,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search/PRS/0?fixed=0&b=1&n=50&select=22",
-          "links": 57,
-          "unique_added": 57
-        },
-        {
-          "page": 2,
-          "url": "https://auctions.yahoo.co.jp/search/search/PRS/0?fixed=0&b=51&n=50&select=22",
-          "links": 50,
-          "unique_added": 33
-        },
-        {
-          "page": 3,
-          "url": "https://auctions.yahoo.co.jp/search/search/PRS/0?fixed=0&b=101&n=50&select=22",
-          "links": 59,
-          "unique_added": 42
-        },
-        {
-          "page": 4,
-          "url": "https://auctions.yahoo.co.jp/search/search/PRS/0?fixed=0&b=151&n=50&select=22",
-          "links": 42,
-          "unique_added": 36
+          "links": 41,
+          "unique_added": 41
         }
       ]
     },
@@ -108,7 +104,7 @@
       "pages": 1,
       "links": 49,
       "parsed": 49,
-      "qualifying": 1,
+      "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
@@ -134,43 +130,43 @@
     },
     "Helix": {
       "pages": 1,
-      "links": 46,
-      "parsed": 46,
+      "links": 49,
+      "parsed": 49,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search/Helix/0?fixed=0&b=1&n=50&select=22",
-          "links": 46,
-          "unique_added": 46
+          "links": 49,
+          "unique_added": 49
         }
       ]
     },
     "Quad Cortex": {
       "pages": 1,
-      "links": 30,
-      "parsed": 30,
+      "links": 29,
+      "parsed": 29,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search/Quad%20Cortex/0?fixed=0&b=1&n=50&select=22",
-          "links": 30,
-          "unique_added": 30
+          "links": 29,
+          "unique_added": 29
         }
       ]
     },
     "Fractal": {
       "pages": 1,
-      "links": 36,
-      "parsed": 36,
+      "links": 35,
+      "parsed": 35,
       "qualifying": 0,
       "page_stats": [
         {
           "page": 1,
           "url": "https://auctions.yahoo.co.jp/search/search/Fractal/0?fixed=0&b=1&n=50&select=22",
-          "links": 36,
-          "unique_added": 36
+          "links": 35,
+          "unique_added": 35
         }
       ]
     }
